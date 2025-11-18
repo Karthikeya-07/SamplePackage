@@ -4,7 +4,7 @@
 
 
 public class Logger {
-    public func log(_ text: String) {
+    public static func log(_ text: String) {
         print(text)
     }
 }
